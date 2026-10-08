@@ -1,1 +1,1 @@
-this is space car invaders game done in javascript
+This is space car invaders game done in javascript
